@@ -1,5 +1,2 @@
 #!/bib/bash
-mkdir tmp
-echo "my_first_directory"
-chmod 755 my_first_directory
-./hello
+mkdir[ /tmp/:]my_first_directory
